@@ -282,6 +282,25 @@ Free Design resources:(Get access to 300+ high quality free design resources)
 ******************************************************************************************
 ## 10.	__Career Of A Web Developer__
 ******************************************************************************************
+Hackernoon Survey
+*       https://bit.ly/2QtijOk
+Jetbrain Survey
+*       https://bit.ly/2ZxRxbR
+
+Developer Survey Result 2019 StackOverflow
+*       https://bit.ly/36fqAMI
+
+The fifteen most popular languages on GitHub
+*       https://octoverse.github.com/2017/
+
+Road to FullStack Development
+*       https://bit.ly/2F3FnOn
+
+Complete FullStack Overview 
+*       https://bit.ly/2ZAaWJ7
+
+For More Developer Paths
+*       https://coggle.it/gallery
 
 ******************************************************************************************
 ## 11.	__Javascript__
