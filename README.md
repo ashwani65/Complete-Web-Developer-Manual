@@ -272,8 +272,12 @@ Grid Cheat Sheet:
 Grid Garden:
 *	https://cssgridgarden.com/
 
-Free Design resources:
+Media Query for Standerd devices
+*       https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+Free Design resources:(Get access to 300+ high quality free design resources)
 *	https://interfacer.xyz/
+*       https://undraw.co/illustrations
 
 ******************************************************************************************
 ## 10.	__Career Of A Web Developer__
