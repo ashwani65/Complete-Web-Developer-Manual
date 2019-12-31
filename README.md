@@ -317,6 +317,7 @@ Reference websites:
 *	https://jquery.com/
 *	http://youmightnotneedjquery.com/
 *	https://babeljs.io/
+*       https://codepen.io/
 
 ******************************************************************************************
 ## 13.	__Advanced Javascript__
