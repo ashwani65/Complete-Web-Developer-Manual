@@ -356,6 +356,7 @@ rm filename | deletes a file called 'filename' within the current directory
 rm -r foldername | used to delete folders. In this case 'foldername' will be deleted
 say hello (only on Mac) | the mac will speak any text you enter after the 'say' keyword
 
+sudo mkdir foldername "for making new folder in the present working directory in ubuntu"
 
 FOR WINDOWS:
 
