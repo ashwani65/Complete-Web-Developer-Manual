@@ -324,7 +324,7 @@ Reference websites:
 ******************************************************************************************
 JavaScript Comparison Table
 *      https://dorey.github.io/JavaScript-Equality-Table/
-
+*      https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
 
 ******************************************************************************************
 ## 14. __Command Line__
