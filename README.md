@@ -440,6 +440,9 @@ Once you are in your forked project directory in your command prompt....
 	One simple way is to do the below command from the master of your forked repository:
 
 ```git pull upstream master```
+Github Portfolio 
+For logo design 
+*     https://hatchful.shopify.com/
 
 ******************************************************************************************
 ## 17.	__A Day In The Life Of A Developer__
